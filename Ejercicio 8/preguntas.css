@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    display: block;
+    height: 100vh;
+    background-image: url(https://c.wallhere.com/photos/05/9b/minimalism_space-1966501.jpg!d);
+    background-size: cover;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 750px;
+    width: 100%;
+    background: white;
+    padding: 20px 20px 1px 20px;
+    border-radius: 5px;
+}
+
+.was-validated, .mb-3 {
+    margin-top: 10px;
+}
